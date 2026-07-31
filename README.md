@@ -276,23 +276,10 @@ Throughout this project I learned:
 
 ---
 
-# 📸 Screenshots
-
-## Architecture
-
-(Add Image)
-
----
-
-## Star Schema
-
-(Add Image)
-
----
-
 ## Power BI Dashboard
 
-(Add Image)
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/09bdd209-780c-4c02-aa02-80658f46ebb0" />
+
 
 ---
 
